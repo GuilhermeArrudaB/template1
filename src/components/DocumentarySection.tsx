@@ -16,7 +16,7 @@ const DocumentarySection: React.FC = () => {
               <span className="text-gradient-gold">Documentário</span> Edhie Colucci
             </h2>
             <p className="text-xl text-white-pure/80">
-              Nosso projeto inaugural que apresenta a extraordinária jornada de um visionário.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
             </p>
           </div>
           
@@ -35,19 +35,13 @@ const DocumentarySection: React.FC = () => {
           
           <div className="prose prose-lg max-w-none text-white-pure/80">
             <p>
-              O documentário "Edhie Colucci" explora a vida e o legado de um dos mais influentes 
-              inovadores do nosso tempo. Através de entrevistas exclusivas, imagens de arquivo e 
-              narrativas envolventes, este projeto retrata a jornada extraordinária de um homem 
-              cuja visão transformou indústrias e inspirou gerações.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
             </p>
             <p>
-              Dirigido com sensibilidade e profundidade, o filme apresenta uma visão íntima e 
-              autêntica, revelando tanto os momentos de triunfo quanto os desafios que moldaram 
-              esta notável personalidade.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
             </p>
             <p>
-              Este documentário representa o compromisso da Black Nigga com narrativas impactantes 
-              e produções audiovisuais de excelência.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
             </p>
             
             <div className="mt-8 flex justify-center">

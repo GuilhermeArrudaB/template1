@@ -11,15 +11,10 @@ const AboutSection: React.FC = () => {
               <span className="text-gradient-gold">Sobre</span> Nós
             </h2>
             <p className="text-white-pure/80">
-              A Black Nigga é uma produtora audiovisual inovadora dedicada a criar conteúdo 
-              que desafia convenções e apresenta novas perspectivas. Fundada com a missão 
-              de dar voz a histórias únicas e autênticas, buscamos excelência técnica e 
-              profundidade narrativa em cada projeto.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
             </p>
             <p className="text-white-pure/80">
-              Nossa equipe combina talento criativo e experiência técnica para desenvolver 
-              documentários, filmes e conteúdo audiovisual que não apenas entretém, mas 
-              também provoca reflexão e conexão emocional com o público.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.
             </p>
           </div>
           <div className="lg:w-1/2 rounded-lg overflow-hidden border border-gold/20">

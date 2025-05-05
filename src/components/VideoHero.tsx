@@ -24,7 +24,7 @@ const VideoHero: React.FC<VideoHeroProps> = ({ videoUrl }) => {
           <div className="absolute inset-0 flex items-center justify-center bg-gradient-to-br from-graphite-dark to-black-rich">
             <div className="text-center p-8 animate-pulse">
               <p className="text-gold text-xl mb-4">Video Placeholder</p>
-              <p className="text-white-pure/60 text-sm">Institutional video will be displayed here</p>
+              <p className="text-white-pure/60 text-sm">Lorem ipsum dolor sit amet</p>
             </div>
           </div>
         )}
@@ -37,7 +37,7 @@ const VideoHero: React.FC<VideoHeroProps> = ({ videoUrl }) => {
           <span className="text-gradient-gold">BLACK NIGGA</span>
         </h1>
         <p className="text-xl md:text-2xl text-white-pure/80 max-w-2xl mx-auto mb-8 animate-fade-in">
-          Produtora de conteúdo audiovisual com foco em narrativas impactantes
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit
         </p>
         <div className="flex flex-wrap justify-center gap-4 animate-fade-in">
           <a 

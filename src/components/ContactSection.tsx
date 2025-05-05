@@ -25,7 +25,7 @@ const ContactSection: React.FC = () => {
     setTimeout(() => {
       toast({
         title: "Mensagem enviada!",
-        description: "Agradecemos seu contato. Responderemos em breve.",
+        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       });
       setFormData({ name: '', email: '', message: '' });
       setIsSubmitting(false);
@@ -41,8 +41,7 @@ const ContactSection: React.FC = () => {
               <span className="text-gradient-gold">Entre em</span> Contato
             </h2>
             <p className="text-xl text-white-pure/80">
-              Estamos ansiosos para ouvir de você. Entre em contato conosco para discutir 
-              projetos, colaborações ou para saber mais sobre nosso trabalho.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
             </p>
           </div>
           
@@ -121,8 +120,7 @@ const ContactSection: React.FC = () => {
                 </h3>
                 
                 <p className="text-white-pure/80 mb-8">
-                  Prefere nos contatar diretamente? Envie um e-mail para nossa equipe 
-                  e retornaremos o mais breve possível.
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                 </p>
                 
                 <a 

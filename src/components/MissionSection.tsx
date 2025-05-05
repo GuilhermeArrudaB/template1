@@ -24,8 +24,7 @@ const MissionSection: React.FC = () => {
             <span className="text-gradient-gold">Missão e</span> Valores
           </h2>
           <p className="text-xl text-white-pure/80">
-            Nosso compromisso é contar histórias que importam, dando visibilidade a narrativas 
-            que inspiram, educam e transformam.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.
           </p>
         </div>
         
@@ -33,13 +32,10 @@ const MissionSection: React.FC = () => {
           <div className="space-y-6">
             <h3 className="text-2xl font-display font-semibold text-white-pure mb-6">Nossa Missão</h3>
             <p className="text-white-pure/80">
-              Criar conteúdo audiovisual de excelência que conecta pessoas através de histórias 
-              autênticas e significativas, amplificando vozes e perspectivas diversas que enriquecem 
-              nossa compreensão do mundo.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
             </p>
             <p className="text-white-pure/80">
-              Buscamos inovar constantemente, mantendo o compromisso com a qualidade técnica e a 
-              profundidade narrativa em cada projeto que desenvolvemos.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
             </p>
           </div>
           
@@ -48,19 +44,19 @@ const MissionSection: React.FC = () => {
             <div className="space-y-8">
               <ValueItem 
                 title="Autenticidade" 
-                description="Compromisso com histórias genuínas e representações honestas de nossas narrativas."
+                description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."
               />
               <ValueItem 
                 title="Excelência" 
-                description="Busca constante pelo mais alto padrão de qualidade em todos os aspectos da produção."
+                description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."
               />
               <ValueItem 
                 title="Inovação" 
-                description="Exploração de novas técnicas e abordagens para contar histórias de maneiras impactantes."
+                description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."
               />
               <ValueItem 
                 title="Respeito" 
-                description="Valorização de todas as perspectivas e tratamento ético de cada narrativa que contamos."
+                description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."
               />
             </div>
           </div>
